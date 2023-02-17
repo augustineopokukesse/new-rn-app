@@ -1,0 +1,9 @@
+{
+    "editor.autoClosingBrackets": "always",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    }
+}
